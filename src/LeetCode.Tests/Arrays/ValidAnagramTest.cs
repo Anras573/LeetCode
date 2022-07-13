@@ -1,6 +1,4 @@
-﻿using LeetCode.Problems.Arrays;
-
-namespace LeetCode.Tests.Arrays
+﻿namespace LeetCode.Tests.Arrays
 {
     public class ValidAnagramTest
     {
