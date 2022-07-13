@@ -6,7 +6,7 @@
 |:---:|------------------------------|--------|
 | [x] | Contains Duplicate           | Easy   |
 | [x] | Valid Anagram                | Easy   |
-| [ ] | Two Sum                      | Easy   |
+| [x] | Two Sum                      | Easy   |
 | [ ] | Group Anagrams               | Medium |
 | [ ] | Top K Frequent Elements      | Medium |
 | [ ] | Product of Array Except Self | Medium |
