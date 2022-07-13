@@ -5,7 +5,7 @@
 |Status|Problem|Difficulty|
 |:---:|------------------------------|--------|
 | [x] | Contains Duplicate           | Easy   |
-| [ ] | Valid Anagram                | Easy   |
+| [x] | Valid Anagram                | Easy   |
 | [ ] | Two Sum                      | Easy   |
 | [ ] | Group Anagrams               | Medium |
 | [ ] | Top K Frequent Elements      | Medium |
