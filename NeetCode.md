@@ -18,7 +18,7 @@
 
 |Status|Problem|Difficulty|
 |:---:|---------------------------|--------|
-| [ ] | Valid Palindrome          | Easy   |
+| [x] | Valid Palindrome          | Easy   |
 | [ ] | Two Sum II                | Medium |
 | [ ] | 3Sum                      | Medium |
 | [ ] | Container with Most Water | Medium |
