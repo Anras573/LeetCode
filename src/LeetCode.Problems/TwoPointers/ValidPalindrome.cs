@@ -2,6 +2,13 @@
 {
     public class ValidPalindrome
     {
+        /// <summary>
+        /// A phrase is a palindrome if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.
+        /// <br/>
+        /// Given a string <paramref name="s"/>, return <c>true</c> if it is a palindrome, or <c>false</c> otherwise.
+        /// </summary>
+        /// <param name="s"></param>
+        /// <returns><c>true</c> if it is a palindrome, or <c>false</c> otherwise.</returns>
         public bool Solve(string s)
         {            
             var left = 0;

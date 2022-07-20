@@ -2,6 +2,12 @@
 {
     public class TwoSum
     {
+        /// <summary>
+        /// Given an array of integers <paramref name="nums"/> and an integer <paramref name="target"/>, return indices of the two numbers such that they add up to target.
+        /// </summary>
+        /// <param name="nums"></param>
+        /// <param name="target"></param>
+        /// <returns>indices of the two numbers such that they add up to target.</returns>
         public int[] Solve(int[] nums, int target)
         {
             var indicesDictionary = new Dictionary<int, int>();
