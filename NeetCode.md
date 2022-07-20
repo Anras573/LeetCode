@@ -28,7 +28,7 @@
 
 |Status|Problem|Difficulty|
 |:---:|-----------------------------------------------|--------|
-| [ ] | Best Time to Buy & Sell Stock                 | Easy   |
+| [x] | Best Time to Buy & Sell Stock                 | Easy   |
 | [ ] | Longest Substring Withut Repeating Characters | Medium |
 | [ ] | Longest Repeating Character Replacement       | Medium |
 | [ ] | Permutation in String                         | Medium |
