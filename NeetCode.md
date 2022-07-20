@@ -39,7 +39,7 @@
 
 |Status|Problem|Difficulty|
 |:---:|----------------------------------|--------|
-| [ ] | Valid Parenthese                 | Easy   |
+| [x] | Valid Parentheses                | Easy   |
 | [ ] | Min Stack                        | Medium |
 | [ ] | Evaluate Reverse Polish Notation | Medium |
 | [ ] | Generate Parentheses             | Medium |

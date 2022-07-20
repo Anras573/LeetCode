@@ -33,8 +33,8 @@
 ## Stack
 
 |Status|Problem|Difficulty|
-|:---:|------------------|------|
-| [ ] | Valid Parenthese | Easy |
+|:---:|-------------------|------|
+| [x] | Valid Parentheses | Easy |
 
 ## Binary Search
 
