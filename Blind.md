@@ -49,7 +49,7 @@
 |:------:|----------------------------------|--------|
 |  [x]   | Reverse Linked List              | Easy   |
 |  [x]   | Merge Two Sorted Lists           | Easy   |
-|  [ ]   | Linked List Cycle                | Easy   |
+|  [x]   | Linked List Cycle                | Easy   |
 |  [ ]   | Reorder List                     | Medium |
 |  [ ]   | Remove Nth Node from End of List | Medium |
 |  [ ]   | Merge K Sorted Lists             | Hard   |
