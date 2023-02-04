@@ -61,19 +61,19 @@
 
 ## Linked List
 
-|Status|Problem|Difficulty|
-|:---:|----------------------------------|--------|
-| [ ] | Reverse Linked List              | Easy   |
-| [ ] | Merge Two Linked List            | Easy   |
-| [ ] | Linked List Cycle                | Easy   |
-| [ ] | Reorder List                     | Medium |
-| [ ] | Remove Nth Node from End of List | Medium |
-| [ ] | Copy List with Random Pointer    | Medium |
-| [ ] | Add Two Numbers                  | Medium |
-| [ ] | Find the Duplicate Number        | Medium |
-| [ ] | LRU Cache                        | Medium |
-| [ ] | Merge K Sorted Lists             | Hard   |
-| [ ] | Reverse Nodes in K-Group         | Hard   |
+| Status |Problem|Difficulty|
+|:------:|----------------------------------|--------|
+|  [x]   | Reverse Linked List              | Easy   |
+|  [ ]   | Merge Two Linked List            | Easy   |
+|  [ ]   | Linked List Cycle                | Easy   |
+|  [ ]   | Reorder List                     | Medium |
+|  [ ]   | Remove Nth Node from End of List | Medium |
+|  [ ]   | Copy List with Random Pointer    | Medium |
+|  [ ]   | Add Two Numbers                  | Medium |
+|  [ ]   | Find the Duplicate Number        | Medium |
+|  [ ]   | LRU Cache                        | Medium |
+|  [ ]   | Merge K Sorted Lists             | Hard   |
+|  [ ]   | Reverse Nodes in K-Group         | Hard   |
 
 ## Trees
 
