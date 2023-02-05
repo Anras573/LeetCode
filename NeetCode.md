@@ -77,23 +77,23 @@
 
 ## Trees
 
-|Status|Problem|Difficulty|
-|:---:|----------------------------------------------------|--------|
-| [ ] | Invert Binary Tree                                 | Easy   |
-| [ ] | Maximum Depth of Binary Tree                       | Easy   |
-| [ ] | Diameter of Binary Tree                            | Easy   |
-| [ ] | Balanced Binary Tree                               | Easy   |
-| [ ] | Same Tree                                          | Easy   |
-| [ ] | Subtree of Another Tree                            | Easy   |
-| [ ] | Lowest Common Ancestor of a BST                    | Easy   |
-| [ ] | Binary Tree Level Order Traversal                  | Medium |
-| [ ] | Binary Tree Right Side View                        | Medium |
-| [ ] | Count Good Nodes in a Binary Tree                  | Medium |
-| [ ] | Validate Binary Search Tree                        | Medium |
-| [ ] | Kth Smallest Element in a BST                      | Medium |
-| [ ] | Construct Tree from Preorder and Inorder Traversal | Medium |
-| [ ] | Binary Tree Max Path Sum                           | Hard   |
-| [ ] | Serialize and Deserialize Binary Tree              | Hard   |
+| Status |Problem|Difficulty|
+|:------:|----------------------------------------------------|--------|
+|  [x]   | Invert Binary Tree                                 | Easy   |
+|  [ ]   | Maximum Depth of Binary Tree                       | Easy   |
+|  [ ]   | Diameter of Binary Tree                            | Easy   |
+|  [ ]   | Balanced Binary Tree                               | Easy   |
+|  [ ]   | Same Tree                                          | Easy   |
+|  [ ]   | Subtree of Another Tree                            | Easy   |
+|  [ ]   | Lowest Common Ancestor of a BST                    | Easy   |
+|  [ ]   | Binary Tree Level Order Traversal                  | Medium |
+|  [ ]   | Binary Tree Right Side View                        | Medium |
+|  [ ]   | Count Good Nodes in a Binary Tree                  | Medium |
+|  [ ]   | Validate Binary Search Tree                        | Medium |
+|  [ ]   | Kth Smallest Element in a BST                      | Medium |
+|  [ ]   | Construct Tree from Preorder and Inorder Traversal | Medium |
+|  [ ]   | Binary Tree Max Path Sum                           | Hard   |
+|  [ ]   | Serialize and Deserialize Binary Tree              | Hard   |
 
 ## Tries
 
