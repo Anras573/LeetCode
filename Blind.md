@@ -2,16 +2,16 @@
 
 ## Arrays & Hashing
 
-|Status|Problem|Difficulty|
-|:---:|------------------------------|--------|
-| [x] | Contains Duplicate           | Easy   |
-| [x] | Valid Anagram                | Easy   |
-| [x] | Two Sum                      | Easy   |
-| [ ] | Group Anagrams               | Medium |
-| [ ] | Top K Frequent Elements      | Medium |
-| [ ] | Product of Array Except Self | Medium |
-| [ ] | Encode and Decode Strings    | Medium |
-| [ ] | Longest Consecutive Sequence | Medium |
+| Status |Problem|Difficulty|
+|:------:|------------------------------|--------|
+|  [x]   | Contains Duplicate           | Easy   |
+|  [x]   | Valid Anagram                | Easy   |
+|  [x]   | Two Sum                      | Easy   |
+|  [x]   | Group Anagrams               | Medium |
+|  [ ]   | Top K Frequent Elements      | Medium |
+|  [ ]   | Product of Array Except Self | Medium |
+|  [ ]   | Encode and Decode Strings    | Medium |
+|  [ ]   | Longest Consecutive Sequence | Medium |
 
 ## Two Pointers
 
