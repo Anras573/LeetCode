@@ -23,21 +23,26 @@ public class GroupAnagrams
     /// </summary>
     /// <param name="strs"></param>
     /// <returns></returns>
-    public List<List<string>> Solve(string[] strs)
+    public IList<IList<string>> Solve(string[] strs)
     {
-        var result = new Dictionary<string, List<string>>();
+        var result = new Dictionary<string, IList<string>>();
 
         foreach (var str in strs)
         {
-            var key = new string(str.OrderBy(s => s).ToArray());
+            var hash = new char[26];
+            
+            foreach (var c in str)
+            {
+                hash[c - 'a']++;
+            }
+
+            var key = new string(hash);
 
             if (result.TryGetValue(key, out var value))
-            {
                 value.Add(str);
-            }
             else
             {
-                result.Add(key, new List<string> { str });
+                result[key] = new List<string> { str };
             }
         }
 
